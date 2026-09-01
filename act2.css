@@ -1,1 +1,265 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    
+    <title>The Wonders of Space</title>
+
+    <style>
+        body 
+  {background-color: #0b1026;
+    color: #f5f5f5;
+  font-family: Arial, sans-serif;
+ margin: 0;
+  padding: 0;}
+        
+
+        header 
+    { background-color: #151b3d;
+  color: #ffd166;
+    text-align: center;
+  padding: 30px;
+   border-bottom: 5px solid #ffd166;}
+      
+
+        header h1 
+    { font-size: 45px;
+     margin-bottom: 10px;}
+        
+
+        header p
+     {font-size: 18px;
+     color: #c9d6ff;}
+        
+
+        .container 
+     {width: 85%;
+     margin: 30px auto;}
+       
+
+        .intro 
+            {background-color: #171d40;
+            padding: 25px;
+            border: 3px dashed #8ecae6;
+            border-radius: 15px;
+            margin-bottom: 30px;}
+   
+
+        .introduction h2 
+            {color: #90dbf4;}
+        
+
+        .space-image 
+           { display: block;
+            width: 600px;
+            max-width: 90%;
+            margin: 25px auto;
+            border: 8px solid #ffd166;
+            border-radius: 25px;}
+       
+
+        .section1 
+           { background-color: #151b3d;
+            padding: 25px;
+            margin: 25px 0;
+            border: 4px solid #5a67d8;
+            border-radius: 15px; }
+       
+
+        .section2 h2 
+           { color: #ffd166;}
+       
+
+        .planet 2
+           { background-color: #202957;
+            padding: 20px;
+            margin: 20px 0;
+            border: 5px double #ff9f1c;
+            border-radius: 10px;}
+           
+
+        .planet3 h3
+           { color: #90dbf4;}
+       
+
+        .facts 
+          {  background-color: #252d59;
+            padding: 20px;
+            border: 6px ridge #9b5de5;
+            border-radius: 15px;}
+        
+
+        .facts li 
+          {  margin: 10px;
+            color: #ffffff;}
+        
+
+        .quote 
+           { background-color: #11162f;
+            padding: 25px;
+            margin-top: 25px;
+            border: 5px groove #00b4d8;
+            border-radius: 20px;
+            text-align: center;
+            font-size: 20px;
+            color: #90dbf4;}
+        
+
+        footer 
+           { background-color: #151b3d;
+            color: #ffd166;
+            text-align: center;
+            padding: 25px;
+            margin-top: 40px;
+            border-top: 5px solid #5a67d8;}
+        
+    </style>
+    </head>
+
+<body>
+
+    <header>
+        <h1>🌌 The Wonders of Space 🌌</h1>
+        <p>Exploring the mysteries of the universe</p>
+        <p>made by Sean Kryzler V. Loredo</p>
+    </header>
+
+    <div class="container">
+
+        <div class="intro">
+            <h2>Welcome to the Universe</h2>
+
+            <p>
+                Space is one of the most fascinating subjects that humans
+                have ever studied. It is an enormous place filled with
+                stars, planets, galaxies, moons, asteroids, comets, and
+                many other objects that we are still discovering.
+            </p>
+
+            <p>
+                The universe is so large that it is difficult to imagine
+                its actual size. Scientists continue to use powerful
+                telescopes and spacecraft to learn more about what exists
+                beyond our planet.
+            </p>
+        </div>
+
+        <img 
+            src="https://images.unsplash.com/photo-1446776877081-d282a0f896e2"
+            alt="Earth viewed from space"
+            class="space-image"
+        >
+
+        <div class="section1">
+            <h2>🚀 Why Is Space Interesting?</h2>
+
+            <p>
+                Space allows us to learn more about where Earth came from
+                and how the universe works. By studying distant stars and
+                planets, scientists can understand how planets form and
+                how stars are born, live, and eventually disappear.
+            </p>
+
+            <p>
+                Space exploration has also helped humans develop new
+                technologies. Satellites are used for communication,
+                weather forecasting, navigation, and observing changes
+                on Earth.
+            </p>
+        </div>
+
+        <div class="section2">
+            <h2>🪐 Interesting Planets</h2>
+
+            <div class="planet1">
+                <h3>🌍 Earth</h3>
+
+                <p>
+                    Earth is the planet we call home. It is the only planet
+                    currently known to support life. Earth has liquid water,
+                    an atmosphere, and conditions that allow plants, animals,
+                    and humans to survive.
+                </p>
+            </div>
+
+            <div class="planet2">
+                <h3>🔴 Mars</h3>
+
+                <p>
+                    Mars is often called the Red Planet because of its
+                    reddish appearance. Scientists are interested in Mars
+                    because it may have had liquid water in the distant
+                    past. Several spacecraft and rovers have explored
+                    its surface.
+                </p>
+            </div>
+
+            <div class="planet3">
+                <h3>🪐 Saturn</h3>
+
+                <p>
+                    Saturn is famous for its beautiful rings. The rings
+                    are made mostly of pieces of ice and rock. Saturn is
+                    one of the largest planets in our solar system and
+                    has many moons.
+                </p>
+            </div>
+        </div>
+
+        <div class="section3">
+            <h2>⭐ Amazing Space Facts</h2>
+
+            <div class="facts">
+                <ul>
+                    <li>The Sun is a star at the center of our solar system.</li>
+                    <li>There are billions of stars in our galaxy.</li>
+                    <li>The Milky Way is the galaxy where our solar system is located.</li>
+                    <li>Jupiter is the largest planet in our solar system.</li>
+                    <li>The Moon is Earth's natural satellite.</li>
+                    <li>Space is mostly a vacuum with very little matter.</li>
+                    <li>Light from distant stars can take many years to reach Earth.</li>
+                    <li>Scientists continue to discover new objects in space.</li>
+                </ul>
+            </div>
+        </div>
+
+        <div class="section4">
+            <h2>🔭 Space Exploration</h2>
+
+            <p>
+                Humans have been interested in the stars for thousands of
+                years. Ancient civilizations observed the night sky and
+                created stories and calendars based on celestial objects.
+            </p>
+
+            <p>
+                In modern times, humans have developed rockets and
+                spacecraft that can travel beyond Earth's atmosphere.
+                Astronauts have visited the Moon, while robotic spacecraft
+                have traveled to different planets and even beyond our
+                solar system.
+            </p>
+
+            <p>
+                Space exploration is important because it helps us answer
+                questions about our universe. It also inspires young people
+                to study science, technology, engineering, and mathematics.
+            </p>
+        </div>
+
+        <div class="quote">
+            <p>
+                "The universe is full of mysteries waiting to be discovered."
+            </p>
+        </div>
+
+    </div>
+
+    <footer>
+        
+        <p>Created for Activity 2</p>
+    </footer>
+
+</body>
+</html>
 
